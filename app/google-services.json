@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764454126810",
+    "firebase_url": "https://mostromedia2013.firebaseio.com",
+    "project_id": "mostromedia2013",
+    "storage_bucket": "mostromedia2013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764454126810:android:37aae3445c2a4bcf",
+        "android_client_info": {
+          "package_name": "com.mostromedia.mostro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764454126810-0ig4j627grkhdu0dibkiabo939lhf0ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAH_vgWNtXdJLB24PYgfbUao9aZh-2tXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
