@@ -1,5 +1,6 @@
 package com.mostromedia.mostro;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -21,8 +22,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+    }
 
-
+    public void goToHomeActivity(View view){
+        Intent goToHome = new Intent(this,HomeActivity.class);
+        startActivity(goToHome);
     }
 
 

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mostro Media</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_services">Servicios</string>
+    <string name="title_about">Nosotros</string>
+    <string name="title_contact">Contacto</string>
 </resources>
